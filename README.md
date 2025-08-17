@@ -1,4 +1,20 @@
-# 👋 Hi, I'm Jeevabarathi D
+<div align="center">
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jeevabarathi;Full-Stack+Developer+(Python+%2B+MERN);AI+Explorer+%7C+Chatbot+Builder;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Full%20Stack-3776AB?logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?logo=react&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Flask-API-000000?logo=flask&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+
 
 ### 💻 Full-Stack Developer | Python Enthusiast | AI Explorer  
 
